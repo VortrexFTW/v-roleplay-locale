@@ -974,7 +974,7 @@
 	"ReleasedFromPrison": "Olet suorittanut tuomiosi ja olet vapautettu vankilasta!",
 	"MedicalBillsPaid": "Sinä maksoit hinnalla {1} sairaalalaskujasi varten ({2} rahoistasi)",
 	"LegalFeesPaid": "Sinä maksoit hinnalla {1} oikeudenkäyntikuluja varten ({2} rahoistasi)",
-	"PlayerChoseRandomNumber": "{1} chose a random number between {2} and {3}. Result: {4}",
+	"PlayerChoseRandomNumber": "{1} valitsi satunnaisen numeron {2} ja {3} välissä. Tulos: {4}",
 	"InvalidCharactersInText": "Tekstissä on virheellisiä kijraimia! Voit vain käyttää aakkosia, numeroita, välejä, yhdysmerkkejä ja alaviivoja",
 	"PlayerHasPrivateMessagesDisabled": "Tuo pelaaja ei hyväksy yksityisiä viestejä!",
 	"ClanTax": "Sinun klaanisi nykyinen vero on: {1}",
